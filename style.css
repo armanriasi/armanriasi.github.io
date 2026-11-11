@@ -655,6 +655,24 @@ section > h2 {
 }
 
 
+.service-subgroup {
+  margin-top: 14px;
+
+  padding-top: 14px;
+
+  border-top: 1px solid var(--border);
+}
+
+
+.service-subgroup:first-of-type {
+  margin-top: 0;
+
+  padding-top: 0;
+
+  border-top: 0;
+}
+
+
 .service-group ul {
   margin: 0;
 
